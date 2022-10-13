@@ -2,7 +2,7 @@
 Things I've made with hydra synth. 
 
 ## Setup
-Get Python (latest version) will do. Double click "server.py". This is how I access local files in the hydra code. 
+Get Python (lastest version is fine). Double click "server.py". This is how I access local files in the hydra code. 
 
 ## Running the code
 Go here: https://hydra.ojack.xyz/
